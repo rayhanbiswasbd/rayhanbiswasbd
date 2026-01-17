@@ -19,23 +19,11 @@
 
 <div align="center">
   <img 
-    src="https://media.tenor.com/o7HlY9a7qTsAAAAC/coding.gif" 
+    src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif" 
     alt="Coding GIF"
-    width="320"
-  />
-</div>
-
-
-
-<div align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJsMHJyNDl3d2xocThqM2NwcmppYTh5aGUzcnd5NWNmbnZ4YzM0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YerjNzTZVaPH2M/giphy.gif" 
-    alt="coding matrix gif"
     width="350"
   />
 </div>
-
-
 
 
 ### 🔝 Top Contributed Repo
@@ -48,4 +36,12 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rayhanbiswasbd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rayhanbiswasbd) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rayhanbiswasbd) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rayhanbiswasbd) 
 
   
-<!-- Proudly created RAYHAN BISWAS
+
+<div align="center">
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJsMHJyNDl3d2xocThqM2NwcmppYTh5aGUzcnd5NWNmbnZ4YzM0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YerjNzTZVaPH2M/giphy.gif" 
+    alt="coding matrix gif"
+    width="350"
+  />
+</div>
+
