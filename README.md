@@ -16,6 +16,28 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+
+<div align="center">
+  <img 
+    src="https://media.tenor.com/o7HlY9a7qTsAAAAC/coding.gif" 
+    alt="Coding GIF"
+    width="320"
+  />
+</div>
+
+
+
+<div align="center">
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJsMHJyNDl3d2xocThqM2NwcmppYTh5aGUzcnd5NWNmbnZ4YzM0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YerjNzTZVaPH2M/giphy.gif" 
+    alt="coding matrix gif"
+    width="350"
+  />
+</div>
+
+
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rayhanbiswasbd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
